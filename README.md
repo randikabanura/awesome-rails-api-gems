@@ -11,6 +11,7 @@ The goal is to help every Rails developer to build an awesome Rails API services
   * [HTTP clients](#http-clients)
   * [Documentation](#documentation)
   * [Admin Panel](#admin-panel)
+  * [File Uploaders](#file-uploaders)
   * [Logging](#logging)
   * [Coding Style](#coding-style)
   * [Testing](#testing)
