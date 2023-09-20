@@ -11,18 +11,19 @@ The goal is to help every Rails developer to build an awesome Rails API services
   * [HTTP clients](#http-clients)
   * [Documentation](#documentation)
   * [Admin Panel](#admin-panel)
+  * [File Uploaders](#file-uploaders)
   * [Logging](#logging)
   * [Coding Style](#coding-style)
   * [Testing](#testing)
 
 ## API Frameworks
 * [Grape](https://github.com/ruby-grape/grape) - Microframework to create REST-ful APIs in Ruby.
-* [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications.
+* [Rails::API](https://github.com/rails-api/rails-api) - Rails for API-only applications.
 
 ## Authentication
-* [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth) - Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.
+* [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth) - Token-based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.
 * [devise-jwt](https://github.com/waiting-for-dev/devise-jwt) - JWT token authentication with devise and rails.
-* [devise-api](https://github.com/nejdetkadir/devise-api) - Convenient way to add authentication to your Ruby on Rails application using the devise gem.
+* [devise-api](https://github.com/nejdetkadir/devise-api) - This is a convenient way to add authentication to your Ruby on Rails application using the devise gem.
 * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
 
 ## Authorization
@@ -50,10 +51,14 @@ The goal is to help every Rails developer to build an awesome Rails API services
 * [apiblueprint](https://apiblueprint.org) - API Documentation with powerful tooling.
 
 ## Admin Panel
-* [ActiveAdmin](http://activeadmin.info) - ActiveAdmin is a administration framework for Ruby on Rails applications.
+* [ActiveAdmin](http://activeadmin.info) - ActiveAdmin is an administration framework for Ruby on Rails applications.
 * [RailsAdmin](https://github.com/sferik/rails_admin) - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data.
 * [administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
 * [Trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails.
+
+## File uploaders
+* [Carrierwave](https://github.com/carrierwaveuploader/carrierwave) - Provides a simple and extremely flexible way to upload files from Ruby applications
+* [Shrine](https://github.com/shrinerb/shrine) - Shrine is a toolkit for handling file attachments in Ruby applications
 
 ## Logging
 * [grape_logging](https://github.com/aserafin/grape_logging) - Request logging for Grape.
